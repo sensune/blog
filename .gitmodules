@@ -1,0 +1,6 @@
+[submodule "source/live2d-widget"]
+	path = source/live2d-widget
+	url = git@github.com:sensune/live2d-widget.git
+[submodule "themes/next"]
+	path = themes/next
+	url = git@github.com:sensune/hexo-theme-next.git
